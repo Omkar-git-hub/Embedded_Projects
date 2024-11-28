@@ -1,0 +1,15 @@
+******** Description of Project ********
+*** Automatic Drip Irigation For Garden ***
+This embedded project aims to develop an automatic drip irrigation system that efficiently manages water usage in home gardens.
+By using sensors, microcontrollers, and actuators, the system will monitor soil moisture levels and trigger irrigation when required. 
+The goal is to create a sustainable, time-efficient, and water-conserving solution for gardening, especially in areas with limited water resources.
+
+Components:
+Microcontroller (e.g., Arduino, Raspberry Pi): Acts as the brain of the system, processing sensor inputs and controlling the water pump.
+Soil Moisture Sensors: Measure the moisture level in the soil to determine when watering is needed.
+Water Pump/Valve: Controls the flow of water to the plants through the drip irrigation pipes.
+Relay Module: Used to control the water pump/valve based on the microcontroller's instructions.
+LCD Display (Optional): Displays real-time data such as soil moisture levels or system status.
+Power Supply: Provides power to the system, including the microcontroller, sensors, and pump.
+Water Tank (Optional): Stores water for the irrigation system.
+Real-time Clock Module (Optional): Allows scheduling of irrigation based on specific times of the day.
