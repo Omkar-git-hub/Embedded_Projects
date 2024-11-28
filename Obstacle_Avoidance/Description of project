@@ -1,0 +1,16 @@
+******** Description of Obstacle Avoidance Project ********
+
+The Obstacle Avoiding Robot is an autonomous robot designed to navigate through an environment while avoiding obstacles in its path. 
+Utilizing a combination of sensors, motors, and an intelligent control system, the robot can detect and respond to obstacles in real-time, making it capable of moving safely through complex terrains.
+This project focuses on creating a robot that can be used in various applications such as indoor navigation, delivery systems, or search and rescue operations.
+
+Components:
+Microcontroller (e.g. Arduino): Acts as the central control unit that processes sensor data and controls the movement of the robot.
+Ultrasonic Sensors: Used to detect obstacles in the robot’s path by measuring the distance to nearby objects. Typically, two or more ultrasonic sensors are placed on the front and sides of the robot.
+DC Motors with Motor Driver: Drive the robot's wheels and allow it to move forward, backward, and turn. The motor driver controls the speed and direction of the motors.
+Wheels and Chassis: Provides the structure and mobility for the robot, supporting the motors and sensors.
+Power Supply: A battery pack or power source to provide energy for the robot's motors, sensors, and microcontroller.
+Buzzer or LED Indicators (Optional): Alerts the user when the robot encounters an obstacle or requires attention.
+IR Sensors or Line Sensors (Optional): Can be added for line-following capabilities or additional obstacle detection in some designs.
+Wireless Module (Optional): Allows remote control or monitoring via Bluetooth, Wi-Fi, or other communication methods.
+Servo Motors (Optional): Can be used for additional movement capabilities, such as rotating the sensors or extending other features.
