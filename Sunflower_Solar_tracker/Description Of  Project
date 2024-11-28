@@ -1,0 +1,14 @@
+*******Description of Sunflower Solar Tracking System ********
+
+The Sunflower Solar Tracking System is an innovative embedded system designed to maximize the efficiency of solar energy collection by mimicking the natural movement of sunflower plants. 
+The system uses an automated mechanism to track the sun's position throughout the day, optimizing the angle of solar panels to capture the maximum amount of sunlight. 
+By using sensors, motors, and microcontrollers, this system enhances the performance of solar panels and contributes to more efficient renewable energy generation.
+
+Components:
+Microcontroller (e.g., Arduino): Controls the overall system by processing sensor data and controlling the motors.
+Light Sensors (e.g., LDR – Light Dependent Resistors): Detect the intensity of sunlight from different directions and send the data to the microcontroller for analysis.
+Servo Motors/Stepper Motors: Control the movement of the solar panel or array to adjust its orientation in response to sensor input.
+Solar Panel: The main component that captures sunlight and converts it into electrical energy.
+Rotational Mechanism: A set of gears or actuators that allow the solar panel to tilt and rotate to follow the sun’s movement.
+Power Supply: Provides power to the sensors, motors, and microcontroller, and may include an optional solar panel to power the system itself.
+Display (Optional): An LCD or LED screen that shows real-time system data such as current panel angle, sun intensity, and energy generation.
